@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.giambarhogar.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1702331372|N6kwqjdvSp-t
+www.giambarhogar.com	TRUE	/	FALSE	1999999999	hs	-612884390
+www.giambarhogar.com	TRUE	/	FALSE	1999999999	svSession	35ceb7f4bdc486f835b89d57da88f2dcfb12501870d6563385f59f2249926126933f6b90521d90cdaf9d870094e49d301e60994d53964e647acf431e4f798bcd5567eb661adfac97318958015b85b08edc62f2756d7cb88950521106b5e8f664b8e67b241e665bc2ad360110683e28011cadaa09e440abf76e6f003964a4a6b403932abb49673fdd5379ffa825922f6e
+www.giambarhogar.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.giambarhogar.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=hit#varnish=hit_miss#dc#desc=fastly_42_g
+
